@@ -19,7 +19,7 @@ export default function Home() {
           </div>
           <input
             type="text"
-            className="input input-ghost text-center text-base-content h-20 w-full"
+            className="input input-ghost text-center text-black h-20 w-full"
           />
         </label>
         <label className="border border-base-100 form-control w-full">
@@ -28,7 +28,7 @@ export default function Home() {
           </div>
           <input
             type="text"
-            className="input input-ghost text-center text-base-content h-20 w-full"
+            className="input input-ghost text-center text-black h-20 w-full"
           />
         </label>
         <label className="border border-base-100 form-control w-full">
@@ -37,7 +37,7 @@ export default function Home() {
           </div>
           <input
             type="text"
-            className="input input-ghost text-center text-base-content h-20 w-full"
+            className="input input-ghost text-center text-black h-20 w-full"
           />
         </label>
 
@@ -48,7 +48,7 @@ export default function Home() {
           </div>
           <input
             type="text"
-            className="input input-ghost text-center text-base-content h-20 w-full"
+            className="input input-ghost text-center text-black h-20 w-full"
           />
         </label>
         <label className="border border-base-100 form-control w-full">
@@ -57,7 +57,7 @@ export default function Home() {
           </div>
           <input
             type="text"
-            className="input input-ghost text-center text-base-content h-20 w-full"
+            className="input input-ghost text-center text-black h-20 w-full"
           />
         </label>
         <label className="border border-base-100 form-control w-full">
@@ -66,7 +66,7 @@ export default function Home() {
           </div>
           <input
             type="text"
-            className="input input-ghost text-center text-base-content h-20 w-full"
+            className="input input-ghost text-center text-black h-20 w-full"
           />
         </label>
         <label className="border border-base-100 form-control w-full">
@@ -75,7 +75,7 @@ export default function Home() {
           </div>
           <input
             type="text"
-            className="input input-ghost text-center text-base-content h-20 w-full"
+            className="input input-ghost text-center text-black h-20 w-full"
           />
         </label>
 
@@ -85,7 +85,7 @@ export default function Home() {
           </div>
           <input
             type="text"
-            className="input input-ghost text-center text-base-content h-20 w-full"
+            className="input input-ghost text-center text-black h-20 w-full"
           />
         </label>
         <label className="border border-base-100 form-control w-full">
@@ -94,7 +94,7 @@ export default function Home() {
           </div>
           <input
             type="text"
-            className="input input-ghost text-center text-base-content h-20 w-full"
+            className="input input-ghost text-center text-black h-20 w-full"
           />
         </label>
         <label className="border border-base-100 form-control w-full">
@@ -103,7 +103,7 @@ export default function Home() {
           </div>
           <input
             type="text"
-            className="input input-ghost text-center text-base-content h-20 w-full"
+            className="input input-ghost text-center text-black h-20 w-full"
           />
         </label>
         <label className="border border-base-100 form-control w-full">
@@ -112,7 +112,7 @@ export default function Home() {
           </div>
           <input
             type="text"
-            className="input input-ghost text-center text-base-content h-20 w-full"
+            className="input input-ghost text-center text-black h-20 w-full"
           />
         </label>
       </div>
