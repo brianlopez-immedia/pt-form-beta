@@ -1,1 +1,1 @@
-This is an web application project to create a ROM and Immedia PT form.
+This is an web application project for Immedia sales associates to create a ROM in real-time based on project and location information.
